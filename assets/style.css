@@ -30,6 +30,10 @@ ul {
     font-size: 20px;
 }
 
+li {
+    margin: 1em 0;
+}
+
 p {
     text-align: center;
     font-size: 30px;
@@ -47,3 +51,18 @@ p {
     border: 5px solid cornflowerblue;
     box-shadow: 5px 10px #b0c4e8;
   }
+
+#title {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+#instruct {
+    font-family: monospace;
+    font-size: 20px;
+    color: #f7ed94;
+}
+
+#foot {
+    font-style: italic;
+}
