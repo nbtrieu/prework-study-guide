@@ -45,6 +45,11 @@ p {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#defn {
+    font-weight: bold;
+    color:#a34585;
+}
+
 .card {
     width: 80%;
     margin: 40px auto;
